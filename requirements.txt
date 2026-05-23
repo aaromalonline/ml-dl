@@ -14,6 +14,7 @@ certifi==2026.5.20
 cffi==2.0.0
 charset-normalizer==3.4.7
 click==8.4.0
+colour==0.1.5
 comm==0.2.3
 contourpy==1.3.3
 cuda-bindings==13.2.0
@@ -23,6 +24,7 @@ cycler==0.12.1
 debugpy==1.8.20
 decorator==5.3.1
 defusedxml==0.7.1
+dtreeviz==2.3.2
 executing==2.2.1
 fastjsonschema==2.21.2
 filelock==3.29.0
@@ -69,6 +71,7 @@ matplotlib-inline==0.2.2
 mdurl==0.1.2
 mistune==3.2.1
 mpmath==1.3.0
+narwhals==2.21.2
 nbclient==0.10.4
 nbconvert==7.17.1
 nbformat==5.10.4
@@ -100,6 +103,7 @@ patsy==1.0.2
 pexpect==4.9.0
 pillow==12.2.0
 platformdirs==4.9.6
+plotly==6.7.0
 prometheus_client==0.25.0
 prompt_toolkit==3.0.52
 psutil==7.2.2
