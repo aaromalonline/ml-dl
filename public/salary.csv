@@ -1,31 +1,17 @@
-Experience,Salary
-2.21,10184
-2.68,10936
-2.82,11089
-3.07,11147
-3.18,12519
-3.57,15298
-3.69,18093
-4.17,19246
-4.31,22023
-4.37,22191
-5.18,22270
-5.29,27037
-5.59,27047
-5.71,30792
-5.84,33111
-5.9,39505
-6.08,39673
-6.36,48764
-6.98,49112
-7.54,49533
-7.57,52866
-7.86,53124
-7.97,53187
-8.19,60718
-8.61,65442
-8.92,67368
-9.52,71536
-9.59,73129
-9.6,87804
-9.91,88131
+company,job,degree,salary_more_then_100k
+google,sales executive,bachelors,0
+google,sales executive,masters,0
+google,business manager,bachelors,1
+google,business manager,masters,1
+google,computer programmer,bachelors,0
+google,computer programmer,masters,1
+abc pharma,sales executive,masters,0
+abc pharma,computer programmer,bachelors,0
+abc pharma,business manager,bachelors,0
+abc pharma,business manager,masters,1
+facebook,sales executive,bachelors,1
+facebook,sales executive,masters,1
+facebook,business manager,bachelors,1
+facebook,business manager,masters,1
+facebook,computer programmer,bachelors,1
+facebook,computer programmer,masters,1
