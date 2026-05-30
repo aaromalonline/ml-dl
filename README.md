@@ -1,3 +1,8 @@
+## View large Notebooks  
+
+https://nbviewer.org/
+
+
 ## Resources 
 
 codebasics
@@ -23,6 +28,6 @@ Stanford Deep Learning for Computer Vision
 https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16
 
 ------------------------------------
-https://adamharley.com/nn_vis/ : CNN visualisation
+https://adamharley.com/nn_vis/ : CNN visualisation  
 https://www.kaggle.com/code/blurredmachine/alexnet-architecture-a-complete-guide : AlexNet Architecture
 
